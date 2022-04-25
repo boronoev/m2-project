@@ -1,2 +1,2 @@
-# m2-project
+# project
 Javascript project (To-Do list)
